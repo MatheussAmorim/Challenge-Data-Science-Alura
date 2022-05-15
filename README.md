@@ -8,6 +8,6 @@ Com sua experiência, você sugere, como passo inicial, a identificação de cli
 
 Assim, você solicita o conjunto de dados para começar a explorar, tratar e modelar a partir de agora. Em seguida, o foco será na otimização de cada um dos modelos com a finalidade de obter o melhor resultado para a tomada de decisão da **Alura Voz**. 
 
-- [Base de Dados Original](https://github.com/dan-alvares/Desafio-Data-Science-Alura/blob/main/Telco-Customer-Churn.json)
-- [Dicionário da Base de Dados](https://github.com/sthemonica/alura-voz/blob/main/dicionario.md)
+- [Base de Dados Original](https://raw.githubusercontent.com/MatheussAmorim/Challenge-Data-Science-Alura/master/Dados/Telco-Customer-Churn.json)
+- [Dicionário da Base de Dados](https://github.com/MatheussAmorim/Challenge-Data-Science-Alura/blob/master/dicionario.md)
  
