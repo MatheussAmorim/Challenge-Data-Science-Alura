@@ -10,4 +10,13 @@ Assim, você solicita o conjunto de dados para começar a explorar, tratar e mod
 
 - [Base de Dados Original](https://raw.githubusercontent.com/MatheussAmorim/Challenge-Data-Science-Alura/master/Dados/Telco-Customer-Churn.json)
 - [Dicionário da Base de Dados](https://github.com/MatheussAmorim/Challenge-Data-Science-Alura/blob/master/dicionario.md)
+
+# 1º Semana
+
+- [ ] Analisar os tipos de dados
+- [ ] Entender os conjuntos de dados 
+- [ ] Verificar as inconsistências
+- [ ] Corrigir as inconsistências
+- [ ] Traduzir as colunas
+- [ ] Criar coluna de contas diárias
  
